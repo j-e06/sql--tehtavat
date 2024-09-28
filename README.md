@@ -12,6 +12,8 @@ Relaatiotietokannan peruskäsitteiden harjoitukset
 https://imgur.com/a/EgMR6e9
 Kaikki tehtävät tehty. (ei sisältänyt kirjoitettuja SQL kyselyitä joten en ottanut kuvaa kysymyksistä.)
 
+--------------------------------------------------------------------
+
 Viikko 2
 
 1 
